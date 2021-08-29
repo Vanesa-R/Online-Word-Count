@@ -24,12 +24,14 @@ Para borrar todo el texto y la información de los contadores, contiene un útil
 - Metodología BEM
 - JavaScript
 
+**¿Quieres ver cómo funciona? [¡Echale un vistazo!](https://vanesa-r.github.io/Online-Word-Count/)** 👈
 
 ## Autora - *Author*
 Vanesa Rodríguez
 
 
 ## Licencia - *License*
+[MIT License](https://github.com/Vanesa-R/Online-Word-Count/blob/master/license.md)
 
 --------------------------------------------------
 
@@ -49,4 +51,4 @@ Vanesa Rodríguez
 - *BEM*
 - *JavaScript*
 
-**_Wanna look how it works? Check it out!_** 👈
+**_Wanna look how it works? [Check it out!](https://vanesa-r.github.io/Online-Word-Count/)_** 👈
