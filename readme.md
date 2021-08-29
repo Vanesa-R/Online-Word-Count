@@ -17,7 +17,7 @@ Para borrar todo el texto y la información de los contadores, contiene un útil
 ![Captura escritorio](images/screenshots/screenshot-desktop.png)
 
 ## Construido con
-- Lenguaje semáNtico HTML5
+- Lenguaje semántico HTML5
 - Propiedades CSS3
 - Flexbox
 - Mobile-first*
